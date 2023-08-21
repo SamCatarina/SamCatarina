@@ -2,8 +2,6 @@
 
 <div style="display: flex;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samcatarina&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcatarina&layout=compact&theme=synthwave)
 
 </div>
 
